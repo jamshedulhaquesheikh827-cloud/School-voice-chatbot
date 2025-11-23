@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import time
 import numpy as np
-from gtts import gTTS
+
 import speech_recognition as sr
 from fuzzywuzzy import process
 import google.generativeai as genai
